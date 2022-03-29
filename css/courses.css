@@ -1,0 +1,41 @@
+:root {
+  --text-primary: #101d42;
+  --text-secondary: #fbb44c;
+  --text-dark: #2b2922;
+  --text-light: #eaeaea;
+  --text-white: #ffffff;
+  --bg-primary: #141e4c;
+  --bg-secondary: #dfedf5;
+  --bg-dark: #101d42;
+  --bg-light: #ffffff;
+  --button-color: #2bb686;
+}
+
+.title-cursuri {
+  height: 60vh;
+  background-color: var(--bg-primary);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--text-white);
+  font-weight: bolder;
+  font-size: 3.5rem;
+}
+
+.programe {
+  text-align: center;
+}
+
+.programe h2 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.card-body img {
+  height: 20px;
+}
+
+.btn-green {
+  background-color: var(--button-color);
+  color: var(--text-white);
+}
