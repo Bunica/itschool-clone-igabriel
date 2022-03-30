@@ -16,7 +16,7 @@
   border-width: 80%;
 }
 .img-section {
-  background-color: #dfedf5;
+  background-color: #f3f4f5;
 }
 
 .parteneri .img-fluid {
@@ -55,6 +55,7 @@
 .hover-btn {
   text-align: center;
   text-transform: uppercase;
+  transition: 0.5s;
   display: inline-block;
   background-color: #2bb686;
   padding: 20px 40px 20px 40px;
