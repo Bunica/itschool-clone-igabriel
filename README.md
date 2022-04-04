@@ -1,2 +1,1 @@
-This is ITSchool clone
-https://igabriel-clonaitschool.netlify.app/
+[ITSchool website clone](https://igabriel-clonaitschool.netlify.app)
